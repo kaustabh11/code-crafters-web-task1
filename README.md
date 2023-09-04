@@ -27,7 +27,7 @@ A simple Google clone web application built with HTML, CSS, and JavaScript. This
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/google-clone.git
+   git clone https://github.com/kaustabh11/code-crafters-web-task1.git
 2.  Open the project folder in your code editor.
     
 3.  Open `index.html` in your web browser to use the Google Clone.
