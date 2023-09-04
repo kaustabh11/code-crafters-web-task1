@@ -1,0 +1,33 @@
+body {
+    font-family: 'Poppins', sans-serif !important;
+}
+#search-results li {
+    margin-bottom: 1rem; /* Add spacing between each search result */
+}
+
+#search-results h3 {
+    font-size: 1.25rem; /* Larger title */
+    color: #1a0dab; /* Google Blue */
+    margin-bottom: 0.25rem; /* Small margin below title */
+}
+
+#search-results p {
+    font-size: 1rem;
+    color: #545454; /* Dark Gray */
+}
+.custom-head {
+    font-size: 22px !important;
+}
+.custom-error {
+    font-size: 25px !important;
+}
+@media (max-width: 600px) {
+    .custom-px {
+        margin-left: -35px !important;
+    }
+}
+@media (max-width: 275px) {
+  .custom-px {
+    margin-left: -185px !important;
+  }
+}
