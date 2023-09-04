@@ -2,18 +2,18 @@ body {
     font-family: 'Poppins', sans-serif !important;
 }
 #search-results li {
-    margin-bottom: 1rem; /* Add spacing between each search result */
+    margin-bottom: 1rem;
 }
 
 #search-results h3 {
-    font-size: 1.25rem; /* Larger title */
-    color: #1a0dab; /* Google Blue */
-    margin-bottom: 0.25rem; /* Small margin below title */
+    font-size: 1.25rem;
+    color: #1a0dab;
+    margin-bottom: 0.25rem;
 }
 
 #search-results p {
     font-size: 1rem;
-    color: #545454; /* Dark Gray */
+    color: #545454;
 }
 .custom-head {
     font-size: 22px !important;
